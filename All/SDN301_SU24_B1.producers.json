@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "665f2c7186531e91c6e33c50"
+  },
+  "name": "Claire Lawry",
+  "createdAt": {
+    "$date": "2024-06-04T15:02:09.232Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:02:09.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f2caa86531e91c6e33c52"
+  },
+  "name": "Cary Geely",
+  "createdAt": {
+    "$date": "2024-06-04T15:03:06.406Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:03:06.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f2cb986531e91c6e33c54"
+  },
+  "name": "Ynez Mancktelow",
+  "createdAt": {
+    "$date": "2024-06-04T15:03:21.199Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:03:21.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f2cc586531e91c6e33c56"
+  },
+  "name": "Corie Awde",
+  "createdAt": {
+    "$date": "2024-06-04T15:03:33.396Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:03:33.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f2cce86531e91c6e33c58"
+  },
+  "name": "Lorna Lockhurst",
+  "createdAt": {
+    "$date": "2024-06-04T15:03:42.728Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:03:42.728Z"
+  },
+  "__v": 0
+}]

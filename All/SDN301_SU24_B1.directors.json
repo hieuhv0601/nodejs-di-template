@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "665f2fcb6b449f0d1437b6f8"
+  },
+  "fullname": "Johnath Verring",
+  "dob": {
+    "$date": "1973-04-09T00:00:00.000Z"
+  },
+  "nationality": "Czech Republic",
+  "createdAt": {
+    "$date": "2024-06-04T15:16:27.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:16:27.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f2fcb6b449f0d1437b6fa"
+  },
+  "fullname": "Tish Latchmore",
+  "dob": {
+    "$date": "1973-04-09T00:00:00.000Z"
+  },
+  "nationality": "Portugal",
+  "createdAt": {
+    "$date": "2024-06-04T15:16:27.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:16:27.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f2fcb6b449f0d1437b6fb"
+  },
+  "fullname": "Nicki Kob",
+  "dob": {
+    "$date": "1975-09-30T00:00:00.000Z"
+  },
+  "nationality": "Mozambique",
+  "createdAt": {
+    "$date": "2024-06-04T15:16:27.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:16:27.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f2fcb6b449f0d1437b6f9"
+  },
+  "fullname": "Ricky Ysson",
+  "dob": {
+    "$date": "1974-11-09T00:00:00.000Z"
+  },
+  "nationality": "Russia",
+  "createdAt": {
+    "$date": "2024-06-04T15:16:27.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:16:27.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f2fcb6b449f0d1437b6fd"
+  },
+  "fullname": "Pepi Darcey",
+  "dob": {
+    "$date": "1975-04-25T00:00:00.000Z"
+  },
+  "nationality": "Indonesia",
+  "createdAt": {
+    "$date": "2024-06-04T15:16:27.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:16:27.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f2fcb6b449f0d1437b6fc"
+  },
+  "fullname": "Egon Jose",
+  "dob": {
+    "$date": "1973-04-10T00:00:00.000Z"
+  },
+  "nationality": "Russia",
+  "createdAt": {
+    "$date": "2024-06-04T15:16:27.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:16:27.340Z"
+  },
+  "__v": 0
+}]

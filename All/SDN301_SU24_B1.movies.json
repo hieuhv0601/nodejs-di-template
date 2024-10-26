@@ -1,0 +1,372 @@
+[{
+  "_id": {
+    "$oid": "665f3dd57281d373d1a044d0"
+  },
+  "title": "Quartet",
+  "release": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+  "producer": {
+    "$oid": "665f2c7186531e91c6e33c50"
+  },
+  "director": {
+    "$oid": "665f2fcb6b449f0d1437b6fa"
+  },
+  "genres": [
+    "Comedy",
+    "Cartoon",
+    "Action"
+  ],
+  "stars": [
+    {
+      "$oid": "665f309c253b0c0839f666f1"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f3dd57281d373d1a044d1"
+  },
+  "title": "This Boy's Life",
+  "release": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.",
+  "producer": {
+    "$oid": "665f2caa86531e91c6e33c52"
+  },
+  "director": {
+    "$oid": "665f2fcb6b449f0d1437b6fd"
+  },
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "$oid": "665f309c253b0c0839f666ef"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666f1"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666f2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f3dd57281d373d1a044cf"
+  },
+  "title": "Keeping Up with the Steins",
+  "release": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+  "producer": {
+    "$oid": "665f2cce86531e91c6e33c58"
+  },
+  "director": {
+    "$oid": "665f2fcb6b449f0d1437b6f8"
+  },
+  "genres": [
+    "Comedy",
+    "Action"
+  ],
+  "stars": [
+    {
+      "$oid": "665f309c253b0c0839f666f0"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666ee"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f3dd57281d373d1a044d2"
+  },
+  "title": "Each Dawn I Die",
+  "release": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+  "producer": {
+    "$oid": "665f2cc586531e91c6e33c56"
+  },
+  "director": {
+    "$oid": "665f2fcb6b449f0d1437b6fa"
+  },
+  "genres": [
+    "Cartoon"
+  ],
+  "stars": [
+    {
+      "$oid": "665f309c253b0c0839f666ee"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666ef"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666f0"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666f2"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666f3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f3dd57281d373d1a044d5"
+  },
+  "title": "Bigger Than Life",
+  "release": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula",
+  "producer": {
+    "$oid": "665f2cb986531e91c6e33c54"
+  },
+  "director": {
+    "$oid": "665f2fcb6b449f0d1437b6f9"
+  },
+  "genres": [
+    "Cartoon",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "$oid": "665f309c253b0c0839f666f2"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666ee"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666ef"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f3dd57281d373d1a044d6"
+  },
+  "title": "October",
+  "release": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+  "producer": {
+    "$oid": "665f2cc586531e91c6e33c56"
+  },
+  "director": {
+    "$oid": "665f2fcb6b449f0d1437b6fd"
+  },
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "$oid": "665f309c253b0c0839f666f2"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666f3"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666f0"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f3dd57281d373d1a044d7"
+  },
+  "title": "Behind the Screen",
+  "release": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius.",
+  "producer": {
+    "$oid": "665f2cc586531e91c6e33c56"
+  },
+  "director": {
+    "$oid": "665f2fcb6b449f0d1437b6fc"
+  },
+  "genres": [
+    "Drama"
+  ],
+  "stars": [
+    {
+      "$oid": "665f309c253b0c0839f666ef"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f3dd57281d373d1a044d3"
+  },
+  "title": "Green Slime, The",
+  "release": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",
+  "producer": {
+    "$oid": "665f2c7186531e91c6e33c50"
+  },
+  "director": {
+    "$oid": "665f2fcb6b449f0d1437b6fa"
+  },
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "stars": [
+    {
+      "$oid": "665f309c253b0c0839f666f0"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666ee"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666f3"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666ef"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666f2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f3dd57281d373d1a044d4"
+  },
+  "title": "Unknown Known, The",
+  "release": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "description": "Nullam sit amet turpis elementum ligula vehicula consequat.",
+  "producer": {
+    "$oid": "665f2cc586531e91c6e33c56"
+  },
+  "director": {
+    "$oid": "665f2fcb6b449f0d1437b6f9"
+  },
+  "genres": [
+    "Action"
+  ],
+  "stars": [
+    {
+      "$oid": "665f309c253b0c0839f666f2"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666f0"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666ef"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f3dd57281d373d1a044d8"
+  },
+  "title": "Screamers",
+  "release": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula.",
+  "producer": {
+    "$oid": "665f2caa86531e91c6e33c52"
+  },
+  "director": {
+    "$oid": "665f2fcb6b449f0d1437b6fb"
+  },
+  "genres": [
+    "Drama",
+    "Cartoon"
+  ],
+  "stars": [
+    {
+      "$oid": "665f309c253b0c0839f666ee"
+    },
+    {
+      "$oid": "665f309c253b0c0839f666f2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T16:16:21.324Z"
+  },
+  "__v": 0
+}]
