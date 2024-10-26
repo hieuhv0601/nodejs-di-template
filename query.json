@@ -1,0 +1,16 @@
+[
+  {
+    "code": "P053",
+    "name": "MSI Pro 2024",
+    "price": 1800,
+    "stock": 5,
+    "categoryId": 1
+  },
+  {
+    "code": "P04",
+    "name": "Thinkpad 2024",
+    "price": 1250,
+    "stock": 10,
+    "categoryId": 1
+  }
+]

@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "665f309c253b0c0839f666ee"
+  },
+  "fullname": "Leeanne Dyson",
+  "male": true,
+  "dob": {
+    "$date": "1977-09-15T00:00:00.000Z"
+  },
+  "nationality": "Russia",
+  "createdAt": {
+    "$date": "2024-06-04T15:19:56.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:19:56.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f309c253b0c0839f666f1"
+  },
+  "fullname": "Mikael Ginnally",
+  "male": false,
+  "dob": {
+    "$date": "1980-02-14T00:00:00.000Z"
+  },
+  "nationality": "Serbia",
+  "createdAt": {
+    "$date": "2024-06-04T15:19:56.784Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:19:56.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f309c253b0c0839f666ef"
+  },
+  "fullname": "Fee Passo",
+  "male": false,
+  "dob": {
+    "$date": "1974-02-19T00:00:00.000Z"
+  },
+  "nationality": "Indonesia",
+  "createdAt": {
+    "$date": "2024-06-04T15:19:56.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:19:56.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f309c253b0c0839f666f0"
+  },
+  "fullname": "Magdalene Oswick",
+  "male": false,
+  "dob": {
+    "$date": "1977-12-30T00:00:00.000Z"
+  },
+  "nationality": "Faroe Islands",
+  "createdAt": {
+    "$date": "2024-06-04T15:19:56.784Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:19:56.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f309c253b0c0839f666f2"
+  },
+  "fullname": "Hugues MacKey",
+  "male": true,
+  "dob": {
+    "$date": "1974-05-28T00:00:00.000Z"
+  },
+  "nationality": "Indonesia",
+  "createdAt": {
+    "$date": "2024-06-04T15:19:56.784Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:19:56.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f309c253b0c0839f666f3"
+  },
+  "fullname": "Nannette Hebburn",
+  "male": false,
+  "dob": {
+    "$date": "1977-12-03T00:00:00.000Z"
+  },
+  "nationality": "Panama",
+  "createdAt": {
+    "$date": "2024-06-04T15:19:56.784Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:19:56.784Z"
+  },
+  "__v": 0
+}]
